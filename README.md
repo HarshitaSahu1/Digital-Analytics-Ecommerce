@@ -9,7 +9,7 @@ This project presents an end-to-end digital analytics solution for e-commerce gr
 
 ### SQL Queries
 Primary SQL analysis scripts:  
-[SQL CODES.sql]
+[View SQL Queries](./SQL%20CODES.sql)
 
 ---
 
