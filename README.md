@@ -2,7 +2,17 @@
 Portfolio project analyzing conversion funnels, customer behavior and campaign performance.
 
 ## Overview
-This project presents an end-to-end digital analytics solution for e-commerce growth analysis using SQL, Python, Power BI and Streamlit.
+This project analyzes the digital and business performance of an e-commerce toy business using data from 2012 to partial 2015 (through March).
+
+Using SQL, Python, Power BI and Streamlit, the project evaluates historical trends and performs analysis across:
+
+- Website traffic and engagement
+- Conversion funnel performance
+- Customer behavior and retention
+- Product profitability
+- Marketing channel effectiveness
+
+The objective was to generate actionable business insights, identify growth opportunities, and support stakeholder decision-making through dashboards and analytical recommendations.
 
 ---
 ## Project Components
