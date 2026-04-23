@@ -63,6 +63,10 @@ View interactive dashboard here:
 [Open Power BI Dashboard](https://app.powerbi.com/groups/me/reports/b8d45889-0600-4eaa-b810-925f1fa7b806/697bc48fc608179be4be?experience=power-bi)
 
 ---
+## Presentation Decks
+- [Analysis Deck](./Analysis_Deck__.pptx)
+- [Investor Pitch Deck](./Investor%20Pitch%20_ppt.pptx)
+  
 
 ## Collaboration & Project Coordination
 This project was delivered in a team environment with cross-functional collaboration.
