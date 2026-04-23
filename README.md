@@ -16,23 +16,23 @@ Primary SQL analysis scripts:
 ## Python Analysis
 
 ### Analysis Deck Python Codes
-[View Notebook](./Python/Analysis_Deck_python_codes.ipynb)
+[View Notebook](./Analysis_Deck_python_codes.ipynb)
 
 ### Investor Pitch Python Codes
-[View Notebook](./Python/Investior_Pitch%20codes.ipynb)
+[View Notebook](./Investior_Pitch%20codes.ipynb)
 
 ---
 
 ## Dashboard Screenshots
 
 ### Business Performance Overview
-![Business Performance](./Images/Business%20Performance%20Overview.png)
+![Business Performance](./Business%20Performance%20Overview.png)
 
 ### Product Performance & Profitability
-![Product Performance](./Images/Product%20Performance%20Profitability.png)
+![Product Performance](./Product%20Performance%20Profitability.png)
 
 ### Website Traffic & Engagement Dashboard
-![Traffic Dashboard](./Images/Website%20Traffic%20Engagement%20Performance%20Dashboard.png)
+![Traffic Dashboard](./Website%20Traffic%20Engagement%20Performance%20Dashboard.png)
 
 ---
 
