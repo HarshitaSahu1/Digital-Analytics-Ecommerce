@@ -10,8 +10,8 @@ This project presents an end-to-end digital analytics solution for e-commerce gr
 
 ### SQL Queries
 View all SQL analysis queries here:  
-[SQL Queries](./SQL/analysis_queries.sql)
 
+[SQL Queries](./SQL/SQL%20CODES.sql)
 ---
 
 ### Python Analysis
