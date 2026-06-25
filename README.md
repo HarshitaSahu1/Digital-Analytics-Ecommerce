@@ -60,7 +60,7 @@ Password: scalar@123
 
 ### Power BI Dashboard
 View interactive dashboard here:  
-[Open Power BI Dashboard](https://app.powerbi.com/groups/me/reports/b8d45889-0600-4eaa-b810-925f1fa7b806/697bc48fc608179be4be?experience=power-bi)
+[Open Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWU5MDQ0NWQtZDVhNy00ZjIyLTg0MjQtZDI2OWM1MWFiYzdlIiwidCI6IjVlZjZhNGEwLTY4ZGQtNDdjMC04YTU1LWY0NjI1N2EyYzdmMiJ9)
 
 ---
 ## Presentation Decks
